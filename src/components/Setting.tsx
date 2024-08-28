@@ -36,7 +36,11 @@ function Setting() {
             </DropdownMenuItem>
           </DropdownMenuGroup>
           <DropdownMenuSeparator />
-          <a href="http://" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://github.com/Mirrorgo/mdshow"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <DropdownMenuItem>
               <Github className="mr-2 h-4 w-4" />
               <span>GitHub</span>
