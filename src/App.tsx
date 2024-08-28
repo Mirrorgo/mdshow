@@ -18,6 +18,7 @@ import {
   Underline,
   Undo2,
 } from "lucide-react";
+import RichText from "./components/RichText";
 
 // https://lucide.dev/icons/categories#text
 const toolbarItems = [
@@ -54,7 +55,7 @@ function App() {
           </div>
         </div>
         <Separator />
-        <div>main</div>
+        <RichText />
       </div>
     </>
   );
