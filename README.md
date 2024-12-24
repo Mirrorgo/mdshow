@@ -1,2 +1,2 @@
 # mdshow
-This is a refactored version of the ['Slatejs'](https://github.com/Mirrorgo/slatejs) project. The previous version was written in SS, and this time it's being refactored using TailwindCSS, ShadCN, and TypeScript. Some interesting features will be added later.
+This is a refactored version of the ['Slatejs'](https://github.com/Mirrorgo/slatejs) project. The previous version was written in js, and this time it's being refactored using TailwindCSS, ShadCN, and TypeScript. Some interesting features will be added later.
